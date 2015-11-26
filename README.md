@@ -3,7 +3,7 @@ RomDomPhilippinux(Coin) - an educational cryptocurrency based on SmallChange and
 In this version there are no direct changes to block targets, etc.
 Any changes are left up to the user. SmallChange information can be found below.
 I don't take any credit for the SMC source codes, barring the few changes I Rommel Dominguez have made. 
-All credit goes to the creator of SMC and Litecoin.
+All credit goes to the creator of SMC LearnCoin and Litecoin.
 
 ==================================================================
 
