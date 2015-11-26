@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 LearnCoin - an educational cryptocurrency based on SmallChange.
 In this version there are no direct changes to block targets, etc.
 Any changes are left up to the user. SmallChange information can be found below.
@@ -62,3 +63,6 @@ in this manner will have their corresponding issue labeled 'stagnant'.
 Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labeled 'stale'.
+=======
+# RomDomPhilippinux
+>>>>>>> 75550ecd2bbc6a21854e73a8d53728071e917de4
