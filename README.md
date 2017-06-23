@@ -38,7 +38,7 @@ first 30 blocks. Credits go to the original authors/communities that
 created Bitcoin and Litecoin.```
 
 Development process
-===================
+-------------------
 
 Developers work in their own trees, then submit pull requests when
 they think their feature or bug fix is ready.
