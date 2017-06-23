@@ -1,7 +1,7 @@
 ROMDOM Philippinux
 ==================
 
->RomDomPhilippinux(Coin) - an educational cryptocurrency based on SmallChange and LearnCoin.
+>RomDomPhilippinux(Coin) - a cryptocurrency based on SmallChange and LearnCoin.
 
 >In this version there are no direct changes to block targets, etc.
 
