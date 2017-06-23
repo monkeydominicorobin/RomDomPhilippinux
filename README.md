@@ -44,7 +44,7 @@ Development process
 
 >they think their feature or bug fix is ready.
 
-The patch will be accepted if there is broad consensus that it is a
+```The patch will be accepted if there is broad consensus that it is a
 good thing.  Developers should expect to rework and resubmit patches
 if they don't match the project's coding conventions (see coding.txt)
 or are controversial.
@@ -67,6 +67,6 @@ Issues with no commits will be given a similar warning, and closed after
 labeled 'stale'.
 =======
 # RomDomPhilippinux
->>>>>>> 75550ecd2bbc6a21854e73a8d53728071e917de4
+>>>>>>> 75550ecd2bbc6a21854e73a8d53728071e917de4```
 
 **Just Clone The Repository**
