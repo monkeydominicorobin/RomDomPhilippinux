@@ -68,3 +68,5 @@ labeled 'stale'.
 =======
 # RomDomPhilippinux
 >>>>>>> 75550ecd2bbc6a21854e73a8d53728071e917de4
+
+**Just Clone The Repository**
