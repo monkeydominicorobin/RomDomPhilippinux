@@ -1,13 +1,19 @@
-<<<<<<< HEAD
-RomDomPhilippinux(Coin) - an educational cryptocurrency based on SmallChange and LearnCoin.
-In this version there are no direct changes to block targets, etc.
-Any changes are left up to the user. SmallChange information can be found below.
-I don't take any credit for the SMC source codes, barring the few changes I Rommel Dominguez have made. 
-All credit goes to the creator of SMC LearnCoin and Litecoin.
+ROMDOM Philippinux
+==================
 
-==================================================================
+>RomDomPhilippinux(Coin) - an educational cryptocurrency based on SmallChange and LearnCoin.
 
-SmallChange (SMC) - a 'faster' version of Litecoin which also uses scrypt
+>In this version there are no direct changes to block targets, etc.
+
+>Any changes are left up to the user. SmallChange information can be found below.
+
+>I don't take any credit for the SMC source codes, barring the few changes I Rommel Dominguez have made. 
+
+>All credit goes to the creator of SMC LearnCoin and Litecoin.
+
+
+
+```SmallChange (SMC) - a 'faster' version of Litecoin which also uses scrypt
 as a proof of work scheme and is intended for microtransactions.
  - 15 seconds block targets: beat that MinCoin! ;)
  - 42 007 680 total coins
@@ -29,7 +35,7 @@ So actually, this 'new' coin exists for the following reasons:
 
 Finally, I only tested the command line server/tool 'smallchange' for the
 first 30 blocks. Credits go to the original authors/communities that
-created Bitcoin and Litecoin.
+created Bitcoin and Litecoin.```
 
 Development process
 ===================
